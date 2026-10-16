@@ -20,7 +20,7 @@ The required bioinformatics programs are:
 On the CRC, these programs are available through the `bio` module:
 
 ```bash
-module load bio
+module load bio```
 
 ## Results
 
