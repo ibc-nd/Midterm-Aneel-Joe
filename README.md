@@ -1,7 +1,7 @@
 # Introduction to Biocomputing Midterm Project
 
-##Aneel Al Fatayri & Joe Mura
-##10/16/2026
+Aneel Al Fatayri & Joe Mura
+10/16/2026
 
 ## Project Purpose
 
