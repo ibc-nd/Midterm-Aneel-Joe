@@ -1,5 +1,8 @@
 # Introduction to Biocomputing Midterm Project
 
+##Aneel Al Fatayri & Joe Mura
+##10/16/2026
+
 ## Project Purpose
 
 The purpose of this project is to identify candidate pH-resistant methanogenic Archaea from 50 isolated proteomes. Methanogenic potential is evaluated by searching for the McrA protein, while the number of HSP70 matches is used as an indicator of potential stress tolerance.
