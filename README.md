@@ -17,10 +17,7 @@ The required bioinformatics programs are:
   - `hmmbuild` — builds profile HMMs
   - `hmmsearch` — searches proteomes using the HMM profiles
 
-On the CRC, these programs are available through the `bio` module:
-
-```bash
-module load bio```
+On the CRC, these programs are available through the `bio` module: module load bio
 
 ## Results
 
